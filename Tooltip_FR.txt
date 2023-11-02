@@ -1,0 +1,3 @@
+Tooltip_FR = {
+	Tooltip_EHR_NewCondition = "État neuf"
+}
